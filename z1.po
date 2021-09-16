@@ -1,4 +1,4 @@
-#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:21
+ /views/partials/case-band.j2:6 /views/partials/case-band.j2:21
 msgid "Beauty and wisdom are seldom found together."
 msgstr ""
 
